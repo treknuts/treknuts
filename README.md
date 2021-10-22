@@ -14,6 +14,9 @@
 ### Languages and Tools
 
 
+
+<img align="left alt="treknuts' github stats src="https://github-readme-stats.vercel.app/api?username=treknuts&show_icons=true&hide_border=true" />
+
 <br/>
 <br/>
 
