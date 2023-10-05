@@ -19,7 +19,7 @@
 
 #### Rust Chad
 
-I'm the best developer that can write blazingly fast code in the GigaChad of a language, **Rust**.
+I'm the best developer that can write blazingly fast code in the GigaChad language, **Rust**.
 
 <img alt="rustlings completion message" src="https://treknuts-image-bucket.s3.us-east-2.amazonaws.com/rustlings-complete.png" />
 
