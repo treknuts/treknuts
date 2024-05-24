@@ -1,8 +1,8 @@
 # Hello, I'm Trevor Knutson 
 
 ### I'm a father, husband, and developer.
-- I'm currently learing Android and Swift.
-- I like to workout, play video games, and golf! 
+- I'm currently learing Flutter.
+- I like to workout, play video games, and ~~golf~~! 
 
 ---
 
